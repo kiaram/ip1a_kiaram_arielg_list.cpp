@@ -1,0 +1,33 @@
+//  ip1a_kiaram_arielg_list.cpp
+//  date: 1/8/19
+/* use 6 cout and 11 endls and
+make a list of 10 sport team names */ 
+//  Driver: Kiara M Navigator: Ariel G
+
+#include <iostream>
+
+
+using namespace std;
+
+int main()
+{
+    
+    cout << " Club Volleyball Teams\n\n" << endl;
+    
+    cout << "Aard wolf" << endl;
+    
+    cout << "Trailsend" << endl;
+    
+    cout << "MAC" << endl;
+    
+    cout << "NW Reign" << endl;
+    
+    cout << "Stumptown" << endl
+         << "NW Elite"  << endl
+         << "Hiki No" << endl
+         << "PVC" << endl
+         << "PDX VBC" << endl
+         << "Fire VBC" << endl;
+
+    return 0;
+}
